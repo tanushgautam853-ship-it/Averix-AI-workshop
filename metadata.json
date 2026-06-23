@@ -1,0 +1,6 @@
+{
+  "name": "Averix AI",
+  "description": "An AI system that gets to know the user and requests Drive connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
